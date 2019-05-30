@@ -6,7 +6,7 @@
 			"four": "Leaves",
 			"five": "Bushes"
 		}
-
+		,
 		{
 			"jpn1": "Fukuoka",
 			"jpn2": "Hiroshima",
